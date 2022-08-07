@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
-body { font-family: 'Space Grotesk', sans-serif; font-size: 18px}
+body { 
+  font-family: 'Space Grotesk', sans-serif; 
+  font-size: 18px;
+  margin: 0;
+}
 :root {
   --white: hsl(0, 0%, 100%);
   --light-gray-violet: hsl(270, 3%, 87%);

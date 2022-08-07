@@ -1,2 +1,37 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+.card-stack {
+    position: relative; 
+    top: 0;
+    left: 0;
+
+    height: 50vh;
+}
+
+.bg-image {
+
+}
+.card-wrapper-1 {
+    position: absolute; 
+    top: 78px;
+    left: 50px;
+
+    /* width: 70%;
+    height: 50%; */
+}
+
+.card-wrapper-2 {
+    position: absolute; 
+    top: 150px;
+    left: 10px;
+
+    /* width: 70%;
+    height: 50%; */
+}
+
+.card-form {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
